@@ -1,24 +1,25 @@
-# 🎰 Slot Machine Console Game (C#)
+# 🎰 4States Slot Machine Game (C# WinForms)
 
-A simple slot machine game built in C# using Visual Studio. Developed as a personal coding project to experiment with logic, randomness, and console output formatting.
+A fun, personal project built in C# using Windows Forms. This slot machine-style game features four state-themed graphics (AR, LA, OK, TX) and simple win/loss logic. Developed to explore randomness, user interaction, and Windows UI programming.
 
 ## 🔧 Features
 - Randomized slot reel outcomes
-- Basic win/loss logic
-- Console-based UI
+- Custom images for AR, LA, OK, TX
+- Windows Form UI with basic controls
 
 ## 🚀 Built With
 - C#
-- Visual Studio (Windows)
 - .NET Framework
+- Visual Studio (Windows)
 
 ## 📂 How to Run
-> Note: This project was developed in Visual Studio on Windows and may not run natively on macOS.
+> Note: This project was developed on Windows using Visual Studio and may not run natively on macOS.
 
-To run on Windows:
-1. Open `4States.sln` in Visual Studio.
-2. Press **F5** to build and execute.
+To run:
+1. Clone or download the repo to a Windows machine
+2. Open `4States.sln` in Visual Studio
+3. Press `F5` to build and run the game
 
 ---
 
-This was one of my early creative coding projects — a fun way to learn logic building and basic user interaction in a game-like format.
+🧠 *One of my early creative projects — built for fun, learning, and exploring how to make code interactive.*
