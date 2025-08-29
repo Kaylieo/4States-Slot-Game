@@ -22,4 +22,4 @@ To run:
 
 ---
 
-🧠 *One of my early creative projects — built for fun, learning, and exploring how to make code interactive.*
+*One of my early creative projects — built for fun, learning, and exploring how to make code interactive.*
